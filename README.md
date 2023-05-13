@@ -56,6 +56,19 @@
   </a>
 </div>
 
+## Difference to original
+
+This repository mainly contains vanilla Invidious. The only changes that have been made are as follows:
+
+- Free choice of playback speed in the settings
+- Github workflow changes to push the image to Dockerhub
+- and ofc the README.md
+
+The patches can be found here:
+
+- [speed_patch.patch](./speed_patch.patch)
+- [ci.patch](./ci.patch)
+
 
 ## Screenshots
 
